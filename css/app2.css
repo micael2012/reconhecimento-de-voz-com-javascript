@@ -1,0 +1,127 @@
+
+body{
+
+   
+	background-image: url('../img/principal.svg');
+	background-size: 255%;
+    background-repeat: no-repeat;
+	background-color: #ffdb57;
+}
+
+.principal{
+	margin-bottom: 80px;
+}
+
+.celular{
+	width:27% ;
+	height:108%;
+	border: solid 14px #3a3768;
+	border-radius: 35px; 
+	background-color: #f1e5e5;
+	margin-bottom: 10px;
+}
+
+.superior{
+	background-color: #3a3768;
+  	height: 18px;
+	width: 130px;
+	border-radius: 2px 2px 14px 14px;
+
+	
+}
+
+h1{
+	/*font-family: 'Amatic SC', cursive;*/
+/*	font-family: 'Turret Road', cursive;*/
+font-family: 'Finger Paint', cursive;
+	font-size: 3.5rem;
+	
+	line-height: 47px;
+	letter-spacing: 5px;
+}
+
+
+h2{
+	/*font-family: 'Libre Franklin', sans-serif;*/
+	font-family: 'Turret Road', cursive;
+	font-size: 23px;	
+}
+
+h3{
+	font-family: 'Comic Neue', cursive;
+	font-size: 15px;	
+}
+
+.mic{
+
+	
+width: 20px;
+}
+textarea{
+	border: none;
+}
+
+textarea.areatexto {
+	background-color: black;
+	color:#FFF;
+	font-family: 'Turret Road', cursive;
+	padding: 10px 10px 10px;
+
+}
+
+.superior-dentro{
+	margin: 0 auto;
+	background-color: #FFF;
+	padding-top: 5px;
+	width: 40px;
+	height: 5px;
+	border-radius: 30px;
+}
+
+.areatexto{
+
+	width: 95%;
+	height: 140px;
+	background-color: #fff;
+	border-radius: 15px;
+	margin:  0 auto;
+
+}
+
+
+.botoes{
+	
+}
+.fa-microphone:before {
+    content: "\f130";
+    font-size: 100px;
+    color: #FFF;
+}
+
+.fa-play-circle:before {
+    content: "\f144";
+    font-size: 60px;
+    color: #3a3768;
+   
+
+}
+
+.fa-stop-circle:before {
+    content: "\f28d";
+    font-size: 60px;
+    color: #f34545;
+}
+
+#areatexto{
+	margin: 0 auto;
+ overflow:auto; 
+}
+
+
+/*font-family: 'Comic Neue', cursive;
+font-family: 'Open Sans Condensed', sans-serif;
+font-family: 'Libre Franklin', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Abel', sans-serif;
+font-family: 'Indie Flower', cursive;
+font-family: 'Amatic SC', cursive;*/

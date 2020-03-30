@@ -1,0 +1,19 @@
+body{
+	background-color: #00FF80;
+	font-family: 'Baloo Da 2', cursive;
+}
+
+
+.box{
+
+	margin-top: 15px;
+	border: solid 3px #FFF;
+	padding: 5px;
+	padding-bottom: 10px;
+	font-size: 25px; 
+
+}
+
+.imgg{
+	
+}
